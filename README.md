@@ -41,10 +41,11 @@ Presionando sobre el título de cada columna ordena los elementos de forma ascen
 - Header: Array de cabeceras ordenaras para mostrar en el listado.
 
 ### Example
+```
   <Table
     :rows="infoPage"
     :headers="headers"
   />
-
+```
 
 
